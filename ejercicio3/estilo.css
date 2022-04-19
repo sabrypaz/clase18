@@ -1,0 +1,44 @@
+.rectangulo{
+    width: 500px;
+    height: 300px;
+    background: grey;
+    position:relative;
+}
+
+.uno{
+    width: 100px;
+    height: 200px;
+    background:green;
+    position: absolute;
+    top: 50px;
+    left:50px;
+
+
+}
+.dos{
+    width: 100px;
+    height: 200px;
+    background:yellow;
+    position: absolute;
+    top:50px;
+    left:150px;
+
+}
+.tres{
+
+    width: 100px;
+    height: 200px;
+    background:red;
+    position: absolute;
+    top:50px;
+    left:250px;
+
+}
+.cuatro{
+    width: 100px;
+    height: 200px;
+    background:blue;
+    position: absolute;
+    top:50px;
+    right: 50px;
+}

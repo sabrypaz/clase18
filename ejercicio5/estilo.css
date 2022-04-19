@@ -1,0 +1,64 @@
+body{
+    margin:0;
+    padding:0;
+    
+}
+
+.tejado{
+    width: 210px;
+    height: 30px;
+    background: red;
+    position: absolute;
+    top: 5px;
+    left: 10px;
+    border:3px solid black;
+    padding: 5px;
+}
+
+.cuerpo{
+    width: 190px;
+    height: 150px;
+    background: grey;
+    position: absolute;
+    top:51px;
+    left:20px;
+    border:3px solid black;
+    padding: 5px;
+}
+.ventana1{
+    width: 30px;
+    height: 30px;
+    background:blue;
+    left:30px;
+    top:90px;
+    position:absolute;
+    border:3px solid black;
+    padding: 5px;
+}
+
+.puerta{
+    width: 50px;
+    height: 50px;
+    background: brown;
+    left:90px;
+    top:150px;
+    position: absolute;
+    border:3px solid black;
+    font-size: 30px;
+    font-weight: bolder;
+    padding: 5px;
+    text-align:center;
+
+
+}
+.ventana2{
+    width: 30px;
+    height: 30px;
+    background: blue;
+    left:170px;
+    top:130px;
+    border: 3px solid black;
+    position: absolute;
+    padding: 5px;
+
+}
